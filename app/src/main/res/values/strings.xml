@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Html Rich Text</string>
+    <string name="use_html_textview">Use Html TextView</string>
+    <string name="display">display</string>
+    <string name="clear">clear</string>
+    <string name="insert_html_text_here">Insert Html text here:</string>
+</resources>
